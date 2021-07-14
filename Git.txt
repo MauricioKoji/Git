@@ -1,0 +1,22 @@
+1.Inicializar
+
+	1.1 Inicializar novo diretorio gerenciado pelo Git
+
+		Inicializa o diretorio
+
+		- comando:git init 
+
+2.Comandos
+
+	2.1 Adicionar arquivos
+
+ 		-Adiciona Arquivo especifico
+
+		 comando:git add nomedoarquivo
+
+		-Adiciona varios arquivos
+
+		 comando:git add *
+
+
+	2.2
